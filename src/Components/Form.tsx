@@ -37,7 +37,7 @@ function Form({fetchWeather} : fetchWeatherProp) {
     <div className="w-full">
       <div className="flex justify-center">
         <h1 className="text-white font-semibold text-3xl p-5 m-5">
-          Weather around the world
+        AtmosphereWatch
         </h1>
       </div>
 
